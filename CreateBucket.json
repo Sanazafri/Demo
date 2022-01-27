@@ -3,7 +3,7 @@
         "S3Bucket": {
             "Type": "AWS::S3::Bucket",
             "Properties": {
-                "BucketName": "manoj-mithbavkar1112345678-bucketusingcf"
+                "BucketName": "manoj-mithbavkar11112345678-bucketusingcf"
             }
         }
     }
