@@ -4,7 +4,7 @@
             "Type": "AWS::S3::Bucket",
             "DeletionPolicy": "Retain",
             "Properties": {
-                "BucketName": "manoj-mithbavkar222-bucketusingcf"
+                "BucketName": "manoj-mithbavkar22222222222-bucketusingcf"
             }
         }
     }
