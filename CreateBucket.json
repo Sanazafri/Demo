@@ -2,9 +2,8 @@
     "Resources": {
         "S3Bucket": {
             "Type": "AWS::S3::Bucket",
-            "DeletionPolicy": "Retain",
             "Properties": {
-                "BucketName": "manoj-mithbavkar22222222222-bucketusingcf"
+                "BucketName": "manoj-mithbavkar12345678-bucketusingcf"
             }
         }
     }
