@@ -1,6 +1,5 @@
 Parameters:
   CPUPolicyTargetValue:
-           Service: AmazonCloudFormation
            Type: String
  
 Resources:
