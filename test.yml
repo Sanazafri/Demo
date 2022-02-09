@@ -1,6 +1,6 @@
 Parameters:
   CPUPolicyTargetValue:
-    Type: String
+           Type: String
  
 Resources:
   VPC:
