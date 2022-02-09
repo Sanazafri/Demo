@@ -1,5 +1,6 @@
 Parameters:
   CPUPolicyTargetValue:
+    Default:""
     Type: String
  
 Resources:
